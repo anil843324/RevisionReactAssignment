@@ -1,0 +1,24 @@
+.container{
+
+     display: flex;
+    align-items: center;
+     justify-content: space-between;
+     background-color: rgb(78, 69, 69);
+     height: 50px;
+     padding-left: 40px;
+     padding-right: 40px;
+     color: red;
+
+}
+
+.smallcontainer a{
+
+    color: white;
+    text-decoration: none;
+
+}
+
+.container .smallcontainer{
+    display: flex;
+    gap: 15px;
+}
