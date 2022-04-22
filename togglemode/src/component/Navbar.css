@@ -1,0 +1,20 @@
+.container{
+    height: 50px;
+    background-color: rgb(111, 67, 67);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.smallcontainer{
+    display: flex;
+    gap: 15px;
+    
+}
+.smallcontainer a{
+
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}

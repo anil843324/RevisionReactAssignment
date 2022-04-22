@@ -1,0 +1,18 @@
+
+.dark{
+    background-color: black;
+    color: white;
+    height: 650px;
+}
+.white{
+    background-color: white;
+    color: black;
+    height: 650px;
+}
+
+.dark h1{
+    color: white;
+}
+.white h1{
+    color: black;
+}
