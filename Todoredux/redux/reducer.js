@@ -12,6 +12,20 @@ export const reducer =(store=initialState,action)=>{
              ...store,
              item:[...store.item,action.payload]
          }
+         case"REMOVE_TODO_ITEM":
+           const  newdata=store.item.filter((ele,index)=>{
+
+             if(index===action.payload){
+                 return false;
+             }
+             return true;
+           }) 
+           return {
+               ...store,
+               item:newdata
+           }
+
+
      }
       
 }
