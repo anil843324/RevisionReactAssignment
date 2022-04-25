@@ -1,0 +1,17 @@
+.showdiv{
+    display: flex;
+     width: 220px;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid red;
+   height: 30px;
+   margin-top: 10px;
+   justify-content: space-between;
+   padding-left: 10px;
+   padding-right: 10px;
+   
+}
+.outputdiv{
+    margin: auto;
+    width: fit-content;
+}
