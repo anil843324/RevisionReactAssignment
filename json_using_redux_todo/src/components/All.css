@@ -1,0 +1,10 @@
+.BigContainer{
+    
+    display: flex;
+    justify-content: space-between;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.container-complete-show{
+    
+}
