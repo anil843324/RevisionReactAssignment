@@ -1,0 +1,36 @@
+.container{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 50px;
+     margin: 50px;
+}
+.card{
+
+    width: 250px;
+    height: 350px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
+.card img{
+
+    height: 200px;
+    width: 250px;
+    border-radius: 5px 5px 0px 0px ; 
+}
+.childcard{
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+     justify-content: center;
+    gap: 5px;
+}

@@ -1,0 +1,138 @@
+{
+  "library": [
+    {
+      "id": 1,
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "description": "Gone Girl is a 2012 crime thriller novel by American writer Gillian Flynn",
+      "price": 123,
+      "isbn": 70934,
+      "bimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe2PaNGe-VgxJmKBkYZYJ_OALURb6O_1ACluD3D0nw&usqp=CAE&s",
+      "rating": 4,
+      "category":"mystery"
+    },
+    {
+      "id": 2,
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "description": "The Silent Patient is a 2019 psychological thriller novel written by British–Cypriot author Alex",
+      "price": 100,
+      "isbn": 70935,
+      "bimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRUoEU1-6xn8T_YSBgqX_h01eruA6_dP0q4ki3uj0E&usqp=CAE&s",
+      "rating": 3,
+      "category":"mystery"
+    },
+    {
+      "id": 3,
+      "title": "The Alienist",
+      "author": "Caleb Carr",
+      "description": "The Alienist is a crime novel by Caleb Carr first published in 1994 and is the first book in the Kreizler series",
+      "price": 123,
+      "isbn": 70934,
+      "bimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV-Oj0dU2CwfiDenifDTS-OvDRFEWL8ri1ZaBOewYy&usqp=CAE&s",
+      "rating": 4,
+      "category":"mystery"
+    },
+    {
+      "id": 4,
+      "title": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+      "author": "Ashlee Vance",
+      "description": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future is Ashlee Vance's biography of Elon Musk, published in 2015. The book traces Elon",
+      "price": 153,
+      "isbn": 70936,
+      "bimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgTaDFpMRWVn09Jb9XhoElqBbSoVRbTaRZ8vnn_GpO&usqp=CAE&s",
+      "rating": 5,
+      "category":"technology"
+    },
+    {
+      "id": 5,
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "description": "Steve Jobs is the authorized self-titled biography of American business magnate and Apple co-founder Steve Jobs. ",
+      "price": 200,
+      "isbn": 70938,
+      "bimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKGArfwzn8rEfk-Cy9BU4TuRPHoLT8qCpP7NBswkOk&usqp=CAE&s",
+      "rating": 4.5,
+      "category":"technology"
+    },
+    {
+      "id": 6,
+      "title": "Life 3.0",
+      "author": "Max Tegmark",
+      "description": "Life 3.0: Being Human in the Age of Artificial Intelligence is a 2017 book by Swedish-American cosmologist Max Tegmark . Life 3.0 discusses",
+      "price": 500,
+      "isbn": 70734,
+      "bimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvCS40YWRez7DiRzo95LaDonIX_NQEX2uvzAnE-5jf&usqp=CAE&s",
+      "rating": 4.2,
+      "category":"technology"
+    },
+    {
+      "id": 7,
+      "title": "Mythology",
+      "author": "Edith Hamilton",
+      "description": "Mythology: Timeless Tales of Gods and Heroes is a book written by Edith Hamilton, published in 1942 by Little, Brown and Company.",
+      "price": 145,
+      "isbn": 80936,
+      "bimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiCS4n8anEyMs_XJeqi_1GUb7d-vFP9qxywcAgHNiX&usqp=CAE&s",
+      "rating": 5,
+      "category":"mythology"
+    },
+    {
+      "id": 8,
+      "title": "Norse Mythology",
+      "author": "Neil Gaiman",
+      "description": "Norse Mythology is a 2017 book by Neil Gaiman. The book is a retelling of several stories from Norse mythology, including the theft of Thor's hammer and the binding of Fenrir ",
+      "price": 250,
+      "isbn": 70138,
+      "bimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9A-St9qK40bhTaa-vSK4SkaqImNG9JFHWxz46j85c&usqp=CAE&s",
+      "rating": 4,
+      "category":"mythology"
+    },
+    {
+      "id": 9,
+      "title": "Norse Gods and Giants",
+      "author": "Norse Gods and Giants",
+      "description": "Norse Gods and Giants is a children's book written and illustrated by Ingri and Edgar Parin d'Aulaire and published by Doubleday in 1967",
+      "price": 450,
+      "isbn": 72734,
+      "bimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-XFNZtKlc7_Uw46S85My3PmPZpsNwr4Pr7a5UJwH_&usqp=CAE&s",
+      "rating": 4.6,
+      "category":"mythology"
+    },
+    {
+      "id": 10,
+      "title": "Guns, Germs, and Steel",
+      "author": "Jared Diamond",
+      "description": "Guns, Germs, and Steel: The Fates of Human Societies is a 1997 transdisciplinary non-fiction book by Jared Diamond.",
+      "price": 185,
+      "isbn": 10936,
+      "bimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwiu5BcSmdqaUZ5J-TVWbsoqEDZJlKEHn2fnsasSuF&usqp=CAE&s",
+      "rating": 3,
+      "category":"history"
+    },
+    {
+      "id": 11,
+      "title": "The Guns of August",
+      "author": "Barbara W. Tuchman",
+      "description": "The Guns of August is a volume of history by Barbara W. Tuchman. It is centered on the first month of World War I. ",
+      "price": 300,
+      "isbn": 79138,
+      "bimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvKBQWnwKqAtzl23vSU9StQ_2TcBltqwJagsnPODfj&usqp=CAE&s",
+      "rating": 4,
+      "category":"history"
+    },
+    {
+      "id": 12,
+      "title": "The Rise and Fall of the Third Reich",
+      "author": "William L. Shirer",
+      "description": "The Rise and Fall of the Third Reich: A History of Nazi Germany is a book by the journalist William L. Shirer, in which the author",
+      "price": 420,
+      "isbn": 78734,
+      "bimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxmulKqKslZE8JDeGwItL62eC92UM66fIk1P66jwrT&usqp=CAE&s",
+      "rating": 4.6,
+      "category":"history"
+    }
+
+  ]
+ 
+}
